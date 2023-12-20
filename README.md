@@ -1,4 +1,4 @@
 # ReactNative_parallax-effect-Assignment-
-Enter yarn
-npx expo start 
+Step 1 : yarn 
+Step 2 : npx expo start 
 
